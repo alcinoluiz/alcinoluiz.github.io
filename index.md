@@ -5,6 +5,6 @@ Felipe (better known as Alcino), is a Machine Learning Engineer/Software Enginee
 
 ## Contact
 
-My [github](https://github.com/alcinoluiz).
-
 My [Linkedin](https://www.linkedin.com/in/alcino-luiz/).
+
+My [Blog](https://www.mochileirodosdados.com/).
